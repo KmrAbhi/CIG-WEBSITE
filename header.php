@@ -16,7 +16,8 @@
 <li><a href="#">Allies</a></li>
 <li><a href="#">Allies</a></li>
 <li><a href="#">Allies</a></li>
-</ul></div></div>
+</ul></div>
+</div>
 </div>
 </div>
 </body>

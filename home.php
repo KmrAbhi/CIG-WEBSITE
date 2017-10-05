@@ -11,6 +11,8 @@
 <div class="one-third left"><a>aba</a></div>
 <div class="one-third center"><a>a</a></div>
 <div class="one-third right"><a>abc</a></div>
-</body>
+	</div>
+	<?php include 'footer.php';?>
+
 </body>
 </html>
