@@ -12,7 +12,7 @@
 <div class="one-third center"><a>a</a></div>
 <div class="one-third right"><a>abc</a></div>
 	</div>
-	<?php include 'footer.php';?
+	<?php include 'footer.php';?>
 
 </body>
 </html>
