@@ -66,6 +66,32 @@ div.nav ul li a {
 	color: #000000;
 	border-right: 1px solid #bababa;
 }
+div.dropdown-content {
+	display:none;
+ 	position: absolute;
+   	background-color: #f9f9f9;
+    min-width: 10%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+div.dropdown-content a {
+	 color: black;
+   	 padding: 12px 16px;
+     text-decoration: none;
+   	 display: block;
+}
+li a:hover, .dropdown:hover {
+   	 background-color: red;
+}
+li.dropdown {
+   	 display: block;
+   	 width: auto;
+}
+.dropdown:hover .dropdown-content {
+     display: block;
+}
+.dropdown-content a:hover {
+	  background-color: #f1f1f1
+}
 
 
 
