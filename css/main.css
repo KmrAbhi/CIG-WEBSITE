@@ -37,13 +37,11 @@ div.header-logo{
 	height:auto;
 	float:left;
 	margin-left: 10%
-	
 }
 div.header{
 	float:left;
 	width:100%;
 	border:2px solid yellow;
-	
 }
 div.header-title{
 	float:left;
@@ -104,5 +102,37 @@ div.contact{
 
 
 
+
+
+
+div.home {
+	max-width: 100% ; 
+	border: 2px solid black ; 
+}
+div.transparent {
+	max-width: 100% ; 
+	position: relative ;
+}
+div.transparent-text {
+	max-width: 80% ; 
+	position: absolute;
+	top: 60% ; 
+	right: 10% ; 
+	border: 2px solid red ;
+	color : purple ; 
+}
+div.about {
+	margin-top: 0.5% ; 
+}
+div.about_heading {
+    max-width: 100% ; 
+    border: 1px solid green ; 
+    text-align: center ; 
+}
+div.about_content {
+	max-width: 80% ;
+	margin-left: 10% ; 
+	margin-right: 10% ; 
+}
 
 
