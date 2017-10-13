@@ -10,12 +10,12 @@
 <div class="one-third left"><a>aba</a></div>
 <div class="one-third center">
 
+
 <div class="home">
-<div class = "transparent"><img src="images/iitr2.jpg">
+<div class = "transparent">
 <div class="transparent-text"><h1>Mahatma Gandhi Central Library</h1></div>
 </div>
 </div>
-
 
 <div class="home about ">
 <div class="about_heading"> <h1>About Us </h1> </div>
@@ -57,7 +57,7 @@ Build ecosystem of angel and institutional investors, industry experts, mentors 
 </div>
 </div>
 
-
+</div>
 <div class="one-third right"><a>abc</a></div>
 </div>
 	<?php include 'footer.php';?>
