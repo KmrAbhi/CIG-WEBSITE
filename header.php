@@ -37,7 +37,7 @@
 <a href="#">fifth</a>
 <a href="#">sixth</a>
 </div>
-/li>
+</li>
 <li class="dropdown"><a href="#">Allies</a>
 <div class="dropdown-content">
 <a href="#">first</a>
