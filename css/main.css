@@ -28,7 +28,6 @@ img{
 
 
 
-
 div.header-images{
 	float:left;
 }
@@ -128,6 +127,51 @@ div.contact{
 }
 
 
+.pic{
+  width:350px;
+  height:300px;
+  border:2px solid lightgray;
+  padding:50px;
+}
+#section_1{
+  margin:200px 90px 0px 90px;
+  background-color:#00aafa;
+  padding:20px;
+  font-size:20px;
+}
+#port
+{
+  text-align:center;
+  border:0px 0px 3px 0px; 
+}
+#section_2{
+  margin:5px 90px 5px 90px;
+  background-color:#00aaaa;
+  padding:20px;
+  font-size:20px;}
+#section_3{
+    margin:5px 90px 5px 90px;
+  background-color:#99ffaa;
+  padding:20px;
+  font-size:20px;
+}
+#section_4{
+    margin:0px 90px 0px 90px;
+  background-color:#00ffaa;
+  padding:20px;
+  font-size:20px;
+}
+#copyrightfooter{
+  color:white;
+  background:gray;
+
+  margin:0px 90px 0px 90px;
+  padding:20px;
+  font-size:20px;}
+.top-bar{
+   position: fixed; 
+    width: 100%; 
+opacity:0.8;}
 
 
 
