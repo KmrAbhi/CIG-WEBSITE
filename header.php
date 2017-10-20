@@ -18,7 +18,27 @@
 <a href="#">sixth</a>
 </div>
 </li>
-<li class="dropdown"><a href="#">Industries</a>
+<li class="dropdown"><a href="#section_2">Industries</a>
+<div class="dropdown-content">
+<a href="#">first</a>
+<a href="#">second</a>
+<a href="#">third</a>
+<a href="#">fourth</a>
+<a href="#">fifth</a>
+<a href="#">sixth</a>
+</div>
+</li>
+<li class="dropdown"><a href="#section_3">Portfolio</a>
+<div class="dropdown-content">
+<a href="#">first</a>
+<a href="#">second</a>
+<a href="#">third</a>
+<a href="#">fourth</a>
+<a href="#">fifth</a>
+<a href="#">sixth</a>
+</div>
+</li>
+<li class="dropdown"><a href="#section_4">Contact</a>
 <div class="dropdown-content">
 <a href="#">first</a>
 <a href="#">second</a>
@@ -37,7 +57,7 @@
 <a href="#">fifth</a>
 <a href="#">sixth</a>
 </div>
-/li>
+</li>
 <li class="dropdown"><a href="#">Allies</a>
 <div class="dropdown-content">
 <a href="#">first</a>
